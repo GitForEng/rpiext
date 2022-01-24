@@ -954,12 +954,6 @@
     (path "/00000000-0000-0000-0000-00005cff706a/00000000-0000-0000-0000-00005dcc8bbc"
       (reference "#PWR0101") (unit 1) (value "GND") (footprint "")
     )
-    (path "/00000000-0000-0000-0000-00005cff706a/00000000-0000-0000-0000-00005ddd76da"
-      (reference "#PWR0102") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/00000000-0000-0000-0000-00005cff706a/00000000-0000-0000-0000-00005ddf038e"
-      (reference "#PWR0103") (unit 1) (value "GND") (footprint "")
-    )
     (path "/00000000-0000-0000-0000-00005cff706a/00000000-0000-0000-0000-00005e15bd87"
       (reference "#PWR0104") (unit 1) (value "GND") (footprint "")
     )
@@ -1301,9 +1295,6 @@
     )
     (path "/00000000-0000-0000-0000-00005cff706a/00000000-0000-0000-0000-00005e5f7d43"
       (reference "J7") (unit 1) (value "Micro_SD_Card_Det") (footprint "CM4IO:SDCARD_MOLEX_503398-1892")
-    )
-    (path "/00000000-0000-0000-0000-00005cff706a/00000000-0000-0000-0000-00005dd3ddee"
-      (reference "J8") (unit 1) (value "THD-20-R") (footprint "Connector_PinHeader_2.54mm:PinHeader_2x20_P2.54mm_Vertical")
     )
     (path "/00000000-0000-0000-0000-00005cff706a/00000000-0000-0000-0000-00005dd09d38"
       (reference "J9") (unit 1) (value "THD-02-R") (footprint "Connector_PinHeader_2.54mm:PinHeader_2x02_P2.54mm_Vertical")
