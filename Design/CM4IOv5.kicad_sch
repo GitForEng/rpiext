@@ -909,9 +909,6 @@
     (path "/00000000-0000-0000-0000-00005e072e02/00000000-0000-0000-0000-00005d2f5823"
       (reference "#PWR026") (unit 1) (value "GND") (footprint "")
     )
-    (path "/00000000-0000-0000-0000-00005cff706a/00000000-0000-0000-0000-00005d4cc3ad"
-      (reference "#PWR027") (unit 1) (value "GND") (footprint "")
-    )
     (path "/00000000-0000-0000-0000-00005e328d89/00000000-0000-0000-0000-00005d30bf83"
       (reference "#PWR028") (unit 1) (value "GND") (footprint "")
     )
@@ -1278,9 +1275,6 @@
     (path "/00000000-0000-0000-0000-00005cff706a/00000000-0000-0000-0000-00005e411f5a"
       (reference "J1") (unit 1) (value "Conn_01x03") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical")
     )
-    (path "/00000000-0000-0000-0000-00005cff706a/00000000-0000-0000-0000-00005e70fd78"
-      (reference "J2") (unit 1) (value "Conn_02x07_Odd_Even") (footprint "Connector_PinHeader_2.54mm:PinHeader_2x07_P2.54mm_Vertical")
-    )
     (path "/00000000-0000-0000-0000-00005cff706a/00000000-0000-0000-0000-00005e95ca2d"
       (reference "J3") (unit 1) (value "Conn_01x03") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical")
     )
@@ -1481,9 +1475,6 @@
     )
     (path "/00000000-0000-0000-0000-00005e328d89/00000000-0000-0000-0000-00005e8dc781"
       (reference "U8") (unit 1) (value "PCF85063AT/AAZ") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
-    )
-    (path "/00000000-0000-0000-0000-00005cff706a/00000000-0000-0000-0000-00005d4cc39f"
-      (reference "U9") (unit 1) (value "74LVC1G07SE-7") (footprint "Package_TO_SOT_SMD:SOT-353_SC-70-5")
     )
     (path "/00000000-0000-0000-0000-00005e328d89/00000000-0000-0000-0000-00005d0d0094"
       (reference "U11") (unit 1) (value "EMC2301-1-ACZL-TR") (footprint "Package_SO:SOIC-8_5.23x5.23mm_P1.27mm")
